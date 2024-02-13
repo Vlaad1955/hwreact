@@ -7,7 +7,7 @@ const Todo = ({todo}) => {
         <div>
             <div>{id}. {title}</div>
             <div>User - {userId}</div>
-            <div>Completed: {completed}</div>
+            <div>Completed: {completed ? 'true' : 'false'}</div>
         </div>
     );
 };
