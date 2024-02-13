@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hwreact.iml" filepath="$PROJECT_DIR$/hwreact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hwreact.iml" filepath="$PROJECT_DIR$/.idea/hwreact.iml" />
     </modules>
   </component>
 </project>
